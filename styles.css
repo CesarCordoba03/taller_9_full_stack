@@ -1,0 +1,70 @@
+/* Primer punto*/
+.blue-text {
+    color: blue;
+}
+
+.red-text {
+    color: red;
+}
+
+/* Segundo Punto*/
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: black;
+}
+
+.verde {
+    color: green;
+    text-decoration: underline;
+}
+
+.rojo {
+    color: red;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+.negrita {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.azul {
+    color: blue;
+}
+
+.rojo-subrayado {
+    color: red;
+    text-decoration: underline;
+}
+
+/* Tercer punto*/
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: black;
+}
+
+.negrita {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.amarillo {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.morado {
+    color: purple;
+    text-decoration: underline;
+}
